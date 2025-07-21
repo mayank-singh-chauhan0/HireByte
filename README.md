@@ -1,4 +1,4 @@
-# Job Portal Application
+# HireByte
 
 A modern full-stack job portal application that connects employers and job seekers. This platform allows companies to post job opportunities and candidates to discover and apply for positions that match their skills and interests.
 
